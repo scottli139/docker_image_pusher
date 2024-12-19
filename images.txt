@@ -1,4 +1,4 @@
 nginx
-jenkins/jenkins:lts-latest
+jenkins/jenkins:lts-jdk17
 #支持私库
 #支持指定架构
